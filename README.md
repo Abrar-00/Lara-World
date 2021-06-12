@@ -2,4 +2,4 @@
 
 ### Laravel website
 
-[ATP insurance](https://abrar-00.github.io/Lara-World/)
+[Lara World](https://abrar-00.github.io/Lara-World/)
